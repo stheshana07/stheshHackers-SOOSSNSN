@@ -1,0 +1,10 @@
+colorama
+hashlib
+itertools
+selenium
+subprocess
+webbrowser
+pyfiglet
+random
+string
+sys
